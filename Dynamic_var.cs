@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        int a = 10;
+        var a = 10;
         // a = "hello"; 
 
         dynamic b = 10;
